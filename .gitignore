@@ -1,4 +1,4 @@
 logs
 .idea
 *.iml
-data/cifar-10-batches-py
+data/
